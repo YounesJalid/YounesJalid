@@ -8,7 +8,7 @@
 - :telescope: I’m currently working on <strong>C Addvenced Projects</strong>
 
 ### 💻 Tech & Tools Preference
-[![My Skills](https://skillicons.dev/icons?i=c,html,css&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,html,css,github,git&theme=light)](https://skillicons.dev)
 
 
 
